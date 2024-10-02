@@ -1,0 +1,15 @@
+EXPLAIN
+*/data.xlsx
+model_checkpoints
+*_dataset.csv
+data_cleaned.xlsx
+*/data_cleaned.xlsx
+model_*/
+CPC/lists
+CPC/create
+CPC/test
+CPC/model_*.pt
+checkpoint.pt
+data.xlsx
+*.zip
+*.csv
